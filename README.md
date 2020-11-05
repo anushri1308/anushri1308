@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Anushri Gupta</h1>
-<h3 align="center">A passionate web and App developer from India</h3>
+<h3 align="center">Smiling Faces, Crying Hearts.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushri1308&label=Profile%20views&color=0e75b6&style=flat" alt="anushri1308" /> </p>
+
+
+- 🌱 I’m currently learning **Flutter.**
+
+
+- 👯 I’m looking to collaborate on **App Development.**
+
+
+- 💬 Ask me about **Problem Solving.**
+
 
 - 📫 How to reach me **anushri1308@gmail.com**
 
