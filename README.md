@@ -1,3 +1,6 @@
+![MasterHead](images/intro.png)
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Anushri Gupta</h1>
 <h3 align="center">Smiling Faces, Crying Hearts.</h3>
 
