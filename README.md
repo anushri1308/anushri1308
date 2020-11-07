@@ -17,9 +17,6 @@
 - 💬 Ask me about **Problem Solving.**
 
 
-- 📝 I regulary write articles on [https://medium.com/@anushri1308](https://medium.com/@anushri1308)
-
-
 - 📫 How to reach me **anushri1308@gmail.com**
  <br>
  <br>
